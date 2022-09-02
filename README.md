@@ -31,7 +31,7 @@
 - let people play to strengths, even if that means
 - gentle honesty, acceptence of limitations, promotion of mutual learning
 - inadquate contribution defined as lack of communication
-- 24 hours of no communication -> raise concern, call cavalry
+- missed two meetings -> raise concern, call cavalry
 
 ## communication plan
 - regular class hours: work and communication
@@ -58,6 +58,7 @@
 - single with collaborators
 - PR requires at least one team member approval
   - merged by team member who reviews pr
+  - callout on slack
 - good branch practices
   - named according to ownership and subject
   - all work in branched, main is for merging and pulling
