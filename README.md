@@ -6,6 +6,8 @@
 - Ben Lieberman
 - Megan Seibert-Hughes
 
+[Presentation Deck](https://docs.google.com/presentation/d/1DSF0crC78kcRwGifKszPR6DNgbT5q0shYfV2LqZ0x0U/edit#slide=id.g2accd1c413_3_31)
+
 ## cooperation plan
 - Megan- feminine perspective, graphic design background
   - CSS and vision execution
